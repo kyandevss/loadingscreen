@@ -1,0 +1,97 @@
+{
+    "backgrounds": [
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/1.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/2.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/3.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/4.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/5.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/6.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/7.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/8.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/9.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/10.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/11.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/12.png",
+        "https://r2.fivemanage.com/E0bqIbNbCrTj4Q9Z71Ykd/13.png",
+        "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/14.png"
+      
+    ],
+    "songs": [
+        {
+            "song": "",
+            "artist": "",
+            "url": ""
+        }
+    ],
+    "changelog": {
+        "changes": [
+           {
+            "description": "Massive Bayside County update with performance upgrades, new systems, and fun activities!",
+            "type": "UPDATE",
+            "title": "Bayside 2.0"
+        },
+        {
+            "description": "Big optimization pass on all clothing to help with performance and reduce overall city lag. Duplicates removed and optimized clothing is now under 'textures/'.",
+            "type": "IMPROVEMENT",
+            "title": "CLOTHING UPDATE 2.0"
+        },
+        {
+            "description": "MLOs and vehicles tuned and optimized for better performance across the city.",
+            "type": "IMPROVEMENT",
+            "title": "MLO & VEHICLE OPTIMIZATION"
+        },
+        {
+            "description": "New animated loading screen with immersive visual design customized for Bayside County.",
+            "type": "REDESIGN",
+            "title": "LOADING SCREEN"
+        },
+                {
+            "description": "A bunch of new maps have been added to city.",
+            "type": "NEW",
+            "title": "New Maps"
+        },
+        {
+            "description": "MRPD New MLO with elevators",
+            "type": "NEW",
+            "title": "MRPD Update"
+
+            }
+
+           ],
+        "date": "05/31/2025",
+        "version": "2.0.0"
+    },
+    "players": [
+        {
+            "description": "Congrats to SAST on department of the month",
+            "name": "SAST",
+            "image": "https://r2.fivemanage.com/uxLuO3ejcvbDIJJ5jAds5/sast-san-andreas-state-troopers1.png",
+            "category": "LEO Department of the Month"
+        },
+                {
+            "description": "No Gang",
+            "name": "No Gang",
+            "image": "https://r2.fivemanage.com/9PdRQlH522tAOWOgrXC7G/bcf1.png",
+            "category": "Gang of the Month"
+        },
+        {
+            "description": "Mark has put in load of work to his department",
+            "name": "Mark J.",
+            "image": "https://r2.fivemanage.com/uxLuO3ejcvbDIJJ5jAds5/image_2025-05-31_005514194.png",
+            "category": "POLICE Officer"
+        },
+        {
+            "description": "Glock has gone above and beyond this month, showing unwavering dedication to saving lives across the city. His leadership, professionalism, and quick response in high-pressure situations have earned him the title of EMS Employee of the Month  and with his promotion to Chief of EMS, the department is in capable hands.",
+            "name": "Glock",
+            "image": "https://r2.fivemanage.com/uxLuO3ejcvbDIJJ5jAds5/image_2025-05-31_005851958.png",
+            "category": "CIVILIAN"
+        }
+    ],
+    "store": {
+        "type_text": "",
+        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Bayside County Roleplay",
+        "url": "https://store.bscrp.xyz",
+        "title": "Bayside County STORE",
+        "type": "2.0 Summer Sale Soon!"
+    }
+}
